@@ -1,0 +1,30 @@
+
+.jumbotron, #jumbo {
+	text-align: center;
+	color:black;
+background-image:url('http://wac.450f.edgecastcdn.net/80450F/wyrk.com/files/2010/12/Buffalo-Skyline-007.jpg');
+	background-size:cover;
+	height:600px;
+	background-repeat:no-repeat;
+	background-color:#bdbdbd;
+	margin-bottom: 0;
+	padding-bottom:0;
+}
+.h1{
+	font-size:50px;
+}
+.top-info{
+	background-color:#848484;
+	margin:0;
+	padding:0;
+}
+blockquote, #open{
+	background-color:#848484;
+	padding:none;
+	margin:none;
+}
+.fbq{
+	background-color:#848484;
+	margin:none;
+	padding:none;
+}
